@@ -11,5 +11,5 @@ window.onload =function(e){
 function count(){
   n++;
   console.log("n = "+n);
-  document.querySelector("h4").innerHTML = visitor + "<span>"+n+"</span>"
+  document.querySelector("h4").innerHTML = visitor + "<span>  "+n+"</span>"
 }

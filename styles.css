@@ -3,9 +3,6 @@ body {
 }
 
 span{
-  text-shadow: 3px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  text-align: right;
-  border: 1px;
-  display: inline-block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
